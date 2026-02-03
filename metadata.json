@@ -1,0 +1,5 @@
+{
+  "name": "CodeSmellLab",
+  "description": "An interactive educational platform designed for developers to master code quality by identifying, understanding, and refactoring common code smells using AI-powered real-world examples.",
+  "requestFramePermissions": []
+}
